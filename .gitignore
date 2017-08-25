@@ -1,0 +1,3 @@
+aws.conf
+.idea/*
+lambda/*.zip
